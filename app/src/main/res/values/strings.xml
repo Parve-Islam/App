@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="menu_broadcast_receiver">Broadcast Receiver</string>
+    <string name="menu_image_scale">Image Scale</string>
+    <string name="menu_video">Video</string>
+    <string name="menu_audio">Audio</string>
+
+    <string name="title_second_activity">Broadcast Input</string>
+    <string name="title_third_activity">Broadcast Result</string>
+
+    <string name="select_broadcast_type">Select a broadcast type</string>
+    <string name="custom_broadcast">Custom broadcast receiver</string>
+    <string name="battery_broadcast">System battery notification receiver</string>
+    <string name="proceed">Proceed</string>
+
+    <string name="enter_message_hint">Enter a message to send</string>
+    <string name="send_button">Send</string>
+
+    <string name="battery_percentage_label">Battery Percentage:</string>
+
+    <string name="received_message_label">Message received by custom broadcast receiver:</string>
+    <string name="no_action_battery">No action is performed here for the battery notification option.</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+</resources>

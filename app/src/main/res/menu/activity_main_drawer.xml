@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_broadcast_receiver"
+            android:icon="@android:drawable/ic_dialog_email"
+            android:title="@string/menu_broadcast_receiver" />
+        <item
+            android:id="@+id/nav_image_scale"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/menu_image_scale" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@android:drawable/ic_media_play"
+            android:title="@string/menu_video" />
+        <item
+            android:id="@+id/nav_audio"
+            android:icon="@android:drawable/ic_lock_silent_mode_off"
+            android:title="@string/menu_audio" />
+    </group>
+</menu>
